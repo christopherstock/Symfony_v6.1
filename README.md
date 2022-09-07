@@ -17,3 +17,16 @@ This will generate a new directory `my_project` with a web application sceleton.
 ```
 symfony new --webapp my_project
 ```
+
+# Start Dev Web Server
+Either run the local PHP web server inside directory `public`:
+```
+cd public
+php -S localhost:8000
+```
+
+Or achieve the same effect with the Symfony CLI client
+from the root folder of your project:
+```
+symfony serve
+```
