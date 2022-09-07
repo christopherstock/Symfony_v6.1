@@ -18,6 +18,11 @@ This will generate a new directory `my_project` with a web application sceleton.
 symfony new --webapp my_project
 ```
 
+Create a new project that is based on the Symfony Demo Project:
+```
+symfony new --webapp --demo my_project
+```
+
 # Start Dev Web Server
 Either run the local PHP web server inside directory `public`:
 ```
