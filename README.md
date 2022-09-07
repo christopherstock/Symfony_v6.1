@@ -30,3 +30,9 @@ from the root folder of your project:
 ```
 symfony serve
 ```
+
+# Run Unit Tests
+Run PHPUnit in order to run all tests:
+```
+./bin/phpunit
+```
