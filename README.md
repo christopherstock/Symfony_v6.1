@@ -1,5 +1,5 @@
 # Symfony_v6.1
-[Symfony](img/logo-symfony.png)
+![Symfony](img/logo-symfony.png)
 
 First steps with **Symfony 6.1**:<br>
 https://symfony.com/download
