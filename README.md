@@ -36,3 +36,9 @@ Run PHPUnit in order to run all tests:
 ```
 ./bin/phpunit
 ```
+
+# Debug Console Tool
+Show all specified routes using the debug console
+```
+php bin/console debug:router
+```
